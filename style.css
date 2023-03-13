@@ -1,0 +1,33 @@
+body {
+	font-family: "Poppins", sans-serif;
+}
+.flexible-area {
+	display: flex;
+	width: 100%;
+}
+.img-2 {
+	margin: 10px;
+}
+#back-img {
+	background-image: url(images/shapes/7.png);
+	background-repeat: no-repeat;
+	position: absolute;
+}
+.color {
+	color: rgb(197, 52, 27);
+}
+.diet {
+	width: 100%;
+	margin: 120px;
+}
+.diet-img {
+	width: 100%;
+}
+.link {
+	text-decoration: none;
+	background-image: linear-gradient(rgb(240, 164, 105), rgb(213, 121, 16));
+	padding: 10px 20px;
+	color: white;
+	border-radius: 40px;
+	margin-bottom: 50px;
+}
