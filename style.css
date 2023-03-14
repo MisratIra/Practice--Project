@@ -40,7 +40,8 @@ body {
 	text-align: center;
 }
 .box img {
-	margin: 40px;
+	width: 90%;
+	margin: 5%;
 }
 .box h1 {
 	padding-left: 10px;
@@ -48,12 +49,15 @@ body {
 .box p {
 	padding-left: 10px;
 }
+
+#b-border {
+	border-radius: 20px;
+}
+#b-border {
+	border-radius: 20px;
+}
 .box {
 	box-shadow: 10px 10px 30px gray;
-}
-#b-border {
-	border-radius: 50px;
-}
-#b-border {
-	border-radius: 50px;
+	width: 50%;
+	margin: 2%;
 }
