@@ -5,24 +5,29 @@ body {
 	display: flex;
 	width: 100%;
 }
-.img-2 {
-	margin: 10px;
+.diet-img {
+	width: 100%;
 }
-#back-img {
+.img-2 {
+	margin-left: 50px;
+	margin-top: auto;
+	width: 100%;
+}
+.back-img {
 	background-image: url(images/shapes/7.png);
 	background-repeat: no-repeat;
-	position: absolute;
+	width: auto;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 .color {
 	color: rgb(197, 52, 27);
 }
 .diet {
 	width: 100%;
-	margin: 120px;
+	margin-top: 120px;
 }
-.diet-img {
-	width: 100%;
-}
+
 .link {
 	text-decoration: none;
 	background-image: linear-gradient(rgb(240, 164, 105), rgb(213, 121, 16));
@@ -30,4 +35,25 @@ body {
 	color: white;
 	border-radius: 40px;
 	margin-bottom: 50px;
+}
+.text-align {
+	text-align: center;
+}
+.box img {
+	margin: 40px;
+}
+.box h1 {
+	padding-left: 10px;
+}
+.box p {
+	padding-left: 10px;
+}
+.box {
+	box-shadow: 10px 10px 30px gray;
+}
+#b-border {
+	border-radius: 50px;
+}
+#b-border {
+	border-radius: 50px;
 }
