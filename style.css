@@ -1,5 +1,6 @@
 body {
 	font-family: "Poppins", sans-serif;
+	margin: 0;
 }
 .flexible-area {
 	display: flex;
@@ -38,6 +39,8 @@ body {
 	margin-bottom: 50px;
 }
 .text-align {
+	margin: auto;
+	width: 50%;
 	text-align: center;
 }
 .box img {
@@ -70,10 +73,22 @@ body {
 	background-color: white;
 	box-shadow: 10px 10px 30px gray;
 	margin-left: 2%;
-	margin-top: 5%;
+	margin-top: 4%;
 	border-radius: 15px;
 }
 .text {
 	margin-left: 13%;
 	margin-top: 3%;
+}
+.ending {
+	margin-top: 7%;
+	text-align: center;
+	color: aliceblue;
+	background-color: black;
+	height: 170px;
+	width: 100%;
+}
+.text-2 {
+	padding-top: 3%;
+	margin: auto;
 }
